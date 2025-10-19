@@ -182,7 +182,7 @@ function agregarPendientes() {
 
 function enviarWhatsApp() {
   const texto = encodeURIComponent(document.getElementById('output').value);
-  const url = `https://wa.me/12515004300?text=${texto}`;
+  const url = `https://wa.me/12517521659?text=${texto}`;
   window.open(url, '_blank');
 }
 </script>
